@@ -1,3 +1,9 @@
 */.ipynb_checkpoints/*
 resources/*
 tags
+*.cys
+*.pdf
+*.zip
+*.png
+*.pyc
+*.swp
