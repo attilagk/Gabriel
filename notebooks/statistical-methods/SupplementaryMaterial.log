@@ -1,0 +1,527 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.30)  10 APR 2023 18:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**SupplementaryMaterial.tex
+(./SupplementaryMaterial.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks17
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip50
+\bibsep=\skip51
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count196
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count197
+\l__pdf_internal_box=\box51
+)
+(./SupplementaryMaterial.aux)
+\openout1 = `SupplementaryMaterial.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen151
+\scratchbox=\box52
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen152
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks19
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 21.
+
+Overfull \hbox (15.45203pt too wide) in paragraph at lines 21--21
+ [][] 
+ []
+
+(./SupplementaryMaterial.toc)
+\tf@toc=\write3
+\openout3 = `SupplementaryMaterial.toc'.
+
+ (./SupplementaryMaterial.lof
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+)
+\tf@lof=\write4
+\openout4 = `SupplementaryMaterial.lof'.
+
+ [1
+
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+ [4]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 234.
+
+Underfull \hbox (badness 3000) in paragraph at lines 236--236
+[]\OT1/cmr/m/n/9 interpretation of
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 241--241
+\OT1/cmr/m/n/9 CN re-gion w.r.t
+ []
+
+
+Overfull \hbox (7.75505pt too wide) in paragraph at lines 243--243
+[]\OT1/cmr/m/n/9 Region[T.Putamen]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
+\OT1/cmr/m/n/9 Puta-men re-gion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
+[]\OT1/cmr/m/n/9 fixed, DLPFC-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
+[]\OT1/cmr/m/n/9 fixed, CN-
+ []
+
+
+Underfull \hbox (badness 3838) in paragraph at lines 249--249
+[]\OT1/cmr/m/n/9 fixed, Putamen-
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 249--249
+\OT1/cmr/m/n/9 specific ef-fect of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+[]\OT1/cmr/m/n/9 random ef-fect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+\OT1/cmr/m/n/9 of cross-subject
+ []
+
+[5] [6] [7]
+! Undefined control sequence.
+l.298 \phantomsection
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(./SupplementaryMaterial.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 21--30
+[]\OT1/cmr/m/n/10 Xue Li Guan, Gi-an-luca Ces-tra, Guanghou Shui, An-tje Kuhrs,
+ Ralf B. Schit-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--30
+\OT1/cmr/m/n/10 ten-helm, Ernst Hafen, F. Gisou van der Goot, Car-men C. Robi-n
+ett, Mau-r-
+ []
+
+
+Underfull \hbox (badness 6477) in paragraph at lines 21--30
+\OT1/cmr/m/n/10 izio Gatti, Mar-cos Gonzalez-Gaitan, and Markus R. Wenk.  Bio-c
+hem-i-cal mem-
+ []
+
+
+Underfull \hbox (badness 4416) in paragraph at lines 21--30
+\OT1/cmr/m/n/10 brane lipidomics dur-ing drosophila de-vel-op-ment.  \OT1/cmr/m
+/it/10 De-vel-op-men-tal Cell\OT1/cmr/m/n/10 , 24(1):98--111,
+ []
+
+
+Underfull \hbox (badness 5105) in paragraph at lines 21--30
+\OT1/cmr/m/n/10 2013.  ISSN 1534-5807.  doi: https://doi.org/10.1016/j.devcel.2
+012.11.012.  URL
+ []
+
+) [8
+
+]
+<../../notebooks/2022-09-04-mixed-models/named-figure/raw-BMP-levels.png, id=45
+, 417.7206pt x 364.9635pt>
+File: ../../notebooks/2022-09-04-mixed-models/named-figure/raw-BMP-levels.png G
+raphic file (type png)
+<use ../../notebooks/2022-09-04-mixed-models/named-figure/raw-BMP-levels.png>
+Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/r
+aw-BMP-levels.png  used on input line 312.
+(pdftex.def)             Requested size: 215.0023pt x 187.84413pt.
+<../../notebooks/2022-09-04-mixed-models/named-figure/norm-BMP-levels.png, id=4
+7, 417.7206pt x 364.9635pt>
+File: ../../notebooks/2022-09-04-mixed-models/named-figure/norm-BMP-levels.png 
+Graphic file (type png)
+<use ../../notebooks/2022-09-04-mixed-models/named-figure/norm-BMP-levels.png>
+Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/n
+orm-BMP-levels.png  used on input line 313.
+(pdftex.def)             Requested size: 215.0023pt x 187.84413pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 312--320
+[][] [] 
+ []
+
+<../../notebooks/2022-09-04-mixed-models/named-figure/raw-Sulf-levels.png, id=4
+8, 441.5697pt x 310.761pt>
+File: ../../notebooks/2022-09-04-mixed-models/named-figure/raw-Sulf-levels.png 
+Graphic file (type png)
+<use ../../notebooks/2022-09-04-mixed-models/named-figure/raw-Sulf-levels.png>
+Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/r
+aw-Sulf-levels.png  used on input line 325.
+(pdftex.def)             Requested size: 215.0023pt x 151.31163pt.
+<../../notebooks/2022-09-04-mixed-models/named-figure/norm-Sulf-levels.png, id=
+49, 441.5697pt x 310.761pt>
+File: ../../notebooks/2022-09-04-mixed-models/named-figure/norm-Sulf-levels.png
+ Graphic file (type png)
+<use ../../notebooks/2022-09-04-mixed-models/named-figure/norm-Sulf-levels.png>
+
+Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/n
+orm-Sulf-levels.png  used on input line 326.
+(pdftex.def)             Requested size: 215.0023pt x 151.31163pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 325--330
+[][] [] 
+ []
+
+<../../notebooks/2022-09-04-mixed-models/named-figure/raw-PCe-levels.png, id=50
+, 415.5525pt x 364.9635pt>
+File: ../../notebooks/2022-09-04-mixed-models/named-figure/raw-PCe-levels.png G
+raphic file (type png)
+<use ../../notebooks/2022-09-04-mixed-models/named-figure/raw-PCe-levels.png>
+Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/r
+aw-PCe-levels.png  used on input line 335.
+(pdftex.def)             Requested size: 215.0023pt x 188.82982pt.
+<../../notebooks/2022-09-04-mixed-models/named-figure/norm-PCe-levels.png, id=5
+1, 415.5525pt x 364.9635pt>
+File: ../../notebooks/2022-09-04-mixed-models/named-figure/norm-PCe-levels.png 
+Graphic file (type png)
+<use ../../notebooks/2022-09-04-mixed-models/named-figure/norm-PCe-levels.png>
+Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/n
+orm-PCe-levels.png  used on input line 336.
+(pdftex.def)             Requested size: 215.0023pt x 188.82982pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 335--340
+[][] [] 
+ []
+
+<../../notebooks/2022-09-04-mixed-models/named-figure/raw-LPS-levels.png, id=52
+, 414.8298pt x 228.3732pt>
+File: ../../notebooks/2022-09-04-mixed-models/named-figure/raw-LPS-levels.png G
+raphic file (type png)
+<use ../../notebooks/2022-09-04-mixed-models/named-figure/raw-LPS-levels.png>
+Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/r
+aw-LPS-levels.png  used on input line 345.
+(pdftex.def)             Requested size: 215.0023pt x 118.36096pt.
+<../../notebooks/2022-09-04-mixed-models/named-figure/norm-LPS-levels.png, id=5
+3, 414.8298pt x 228.3732pt>
+File: ../../notebooks/2022-09-04-mixed-models/named-figure/norm-LPS-levels.png 
+Graphic file (type png)
+<use ../../notebooks/2022-09-04-mixed-models/named-figure/norm-LPS-levels.png>
+Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/n
+orm-LPS-levels.png  used on input line 346.
+(pdftex.def)             Requested size: 215.0023pt x 118.36096pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 345--350
+[][] [] 
+ []
+
+<../../notebooks/2022-09-02-lipid-ch-ac/named-figure/clustermap-std.png, id=54,
+ 922.44624pt x 886.31125pt>
+File: ../../notebooks/2022-09-02-lipid-ch-ac/named-figure/clustermap-std.png Gr
+aphic file (type png)
+<use ../../notebooks/2022-09-02-lipid-ch-ac/named-figure/clustermap-std.png>
+Package pdftex.def Info: ../../notebooks/2022-09-02-lipid-ch-ac/named-figure/cl
+ustermap-std.png  used on input line 355.
+(pdftex.def)             Requested size: 430.00462pt x 413.1583pt.
+<../../notebooks/2022-09-04-mixed-models/named-figure/all-qq-plots-fixed-fx.pdf
+, id=55, 1120.185pt x 1109.34947pt>
+File: ../../notebooks/2022-09-04-mixed-models/named-figure/all-qq-plots-fixed-f
+x.pdf Graphic file (type pdf)
+<use ../../notebooks/2022-09-04-mixed-models/named-figure/all-qq-plots-fixed-fx
+.pdf>
+Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/a
+ll-qq-plots-fixed-fx.pdf  used on input line 365.
+(pdftex.def)             Requested size: 430.00462pt x 425.83978pt.
+<../../notebooks/2022-09-04-mixed-models/named-figure/t-value-heatmap-fixed-mix
+ed-models.pdf, id=56, 794.63814pt x 186.91467pt>
+File: ../../notebooks/2022-09-04-mixed-models/named-figure/t-value-heatmap-fixe
+d-mixed-models.pdf Graphic file (type pdf)
+<use ../../notebooks/2022-09-04-mixed-models/named-figure/t-value-heatmap-fixed
+-mixed-models.pdf>
+Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/t
+-value-heatmap-fixed-mixed-models.pdf  used on input line 382.
+(pdftex.def)             Requested size: 430.00462pt x 101.14632pt.
+<../../notebooks/2022-09-04-mixed-models/named-figure/p-value-heatmap-fixed-mix
+ed-models.pdf, id=57, 795.97124pt x 186.91467pt>
+File: ../../notebooks/2022-09-04-mixed-models/named-figure/p-value-heatmap-fixe
+d-mixed-models.pdf Graphic file (type pdf)
+<use ../../notebooks/2022-09-04-mixed-models/named-figure/p-value-heatmap-fixed
+-mixed-models.pdf>
+Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/p
+-value-heatmap-fixed-mixed-models.pdf  used on input line 386.
+(pdftex.def)             Requested size: 430.00462pt x 100.97519pt.
+<../../notebooks/2023-01-04-side-chain/named-figure/level-sidechain_len-SM.pdf,
+ id=58, 402.42282pt x 435.0654pt>
+File: ../../notebooks/2023-01-04-side-chain/named-figure/level-sidechain_len-SM
+.pdf Graphic file (type pdf)
+<use ../../notebooks/2023-01-04-side-chain/named-figure/level-sidechain_len-SM.
+pdf>
+Package pdftex.def Info: ../../notebooks/2023-01-04-side-chain/named-figure/lev
+el-sidechain_len-SM.pdf  used on input line 414.
+(pdftex.def)             Requested size: 215.0023pt x 232.44899pt.
+<../../notebooks/2023-01-04-side-chain/named-figure/level-sidechain_len-PC.pdf,
+ id=59, 396.0396pt x 435.0654pt>
+File: ../../notebooks/2023-01-04-side-chain/named-figure/level-sidechain_len-PC
+.pdf Graphic file (type pdf)
+<use ../../notebooks/2023-01-04-side-chain/named-figure/level-sidechain_len-PC.
+pdf>
+Package pdftex.def Info: ../../notebooks/2023-01-04-side-chain/named-figure/lev
+el-sidechain_len-PC.pdf  used on input line 415.
+(pdftex.def)             Requested size: 215.0023pt x 236.1865pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 414--418
+[][] [] 
+ []
+
+<../../notebooks/2022-09-04-mixed-models/named-figure/pvalues-PMI-effect.pdf, i
+d=60, 280.35052pt x 380.13205pt>
+File: ../../notebooks/2022-09-04-mixed-models/named-figure/pvalues-PMI-effect.p
+df Graphic file (type pdf)
+<use ../../notebooks/2022-09-04-mixed-models/named-figure/pvalues-PMI-effect.pd
+f>
+Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/p
+values-PMI-effect.pdf  used on input line 424.
+(pdftex.def)             Requested size: 171.99922pt x 233.2201pt.
+<../../notebooks/2022-09-04-mixed-models/named-figure/PMI-effect-on-estimate-pv
+al.pdf, id=61, 526.24927pt x 789.02782pt>
+File: ../../notebooks/2022-09-04-mixed-models/named-figure/PMI-effect-on-estima
+te-pval.pdf Graphic file (type pdf)
+<use ../../notebooks/2022-09-04-mixed-models/named-figure/PMI-effect-on-estimat
+e-pval.pdf>
+Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/P
+MI-effect-on-estimate-pval.pdf  used on input line 435.
+(pdftex.def)             Requested size: 344.005pt x 515.79967pt.
+
+LaTeX Warning: Float too large for page by 30.85088pt on input line 446.
+
+<../../notebooks/2022-09-04-mixed-models/named-figure/pvalues-corrected-wo-PMI.
+pdf, id=62, 646.35759pt x 494.94499pt>
+File: ../../notebooks/2022-09-04-mixed-models/named-figure/pvalues-corrected-wo
+-PMI.pdf Graphic file (type pdf)
+<use ../../notebooks/2022-09-04-mixed-models/named-figure/pvalues-corrected-wo-
+PMI.pdf>
+Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/p
+values-corrected-wo-PMI.pdf  used on input line 450.
+(pdftex.def)             Requested size: 430.00462pt x 329.27777pt.
+<../../notebooks/2022-09-04-mixed-models/named-figure/line-ensemble.pdf, id=63,
+ 493.59094pt x 548.7225pt>
+File: ../../notebooks/2022-09-04-mixed-models/named-figure/line-ensemble.pdf Gr
+aphic file (type pdf)
+<use ../../notebooks/2022-09-04-mixed-models/named-figure/line-ensemble.pdf>
+Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/l
+ine-ensemble.pdf  used on input line 463.
+(pdftex.def)             Requested size: 430.00462pt x 478.05453pt.
+
+LaTeX Warning: Float too large for page by 3.52242pt on input line 476.
+
+<../../notebooks/2022-09-04-mixed-models/named-figure/line-ensemble-green-purpl
+e.pdf, id=64, 485.18452pt x 548.7225pt>
+File: ../../notebooks/2022-09-04-mixed-models/named-figure/line-ensemble-green-
+purple.pdf Graphic file (type pdf)
+<use ../../notebooks/2022-09-04-mixed-models/named-figure/line-ensemble-green-p
+urple.pdf>
+Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/l
+ine-ensemble-green-purple.pdf  used on input line 481.
+(pdftex.def)             Requested size: 430.00462pt x 486.33525pt.
+[9 <./../../notebooks/2022-09-04-mixed-models/named-figure/raw-BMP-levels.png> 
+<./../../notebooks/2022-09-04-mixed-models/named-figure/norm-BMP-levels.png> <.
+/../../notebooks/2022-09-04-mixed-models/named-figure/raw-Sulf-levels.png> <./.
+./../notebooks/2022-09-04-mixed-models/named-figure/norm-Sulf-levels.png>]
+[10 <./../../notebooks/2022-09-04-mixed-models/named-figure/raw-PCe-levels.png>
+ <./../../notebooks/2022-09-04-mixed-models/named-figure/norm-PCe-levels.png> <
+./../../notebooks/2022-09-04-mixed-models/named-figure/raw-LPS-levels.png> <./.
+./../notebooks/2022-09-04-mixed-models/named-figure/norm-LPS-levels.png>]
+[11 <./../../notebooks/2022-09-02-lipid-ch-ac/named-figure/clustermap-std.png>]
+[12 <./../../notebooks/2022-09-04-mixed-models/named-figure/all-qq-plots-fixed-
+fx.pdf>] [13 <./../../notebooks/2022-09-04-mixed-models/named-figure/t-value-he
+atmap-fixed-mixed-models.pdf> <./../../notebooks/2022-09-04-mixed-models/named-
+figure/p-value-heatmap-fixed-mixed-models.pdf>] [14 <./../../notebooks/2023-01-
+04-side-chain/named-figure/level-sidechain_len-SM.pdf> <./../../notebooks/2023-
+01-04-side-chain/named-figure/level-sidechain_len-PC.pdf> <./../../notebooks/20
+22-09-04-mixed-models/named-figure/pvalues-PMI-effect.pdf>] [15 <./../../notebo
+oks/2022-09-04-mixed-models/named-figure/PMI-effect-on-estimate-pval.pdf>]
+[16 <./../../notebooks/2022-09-04-mixed-models/named-figure/pvalues-corrected-w
+o-PMI.pdf>] [17 <./../../notebooks/2022-09-04-mixed-models/named-figure/line-en
+semble.pdf>] [18 <./../../notebooks/2022-09-04-mixed-models/named-figure/line-e
+nsemble-green-purple.pdf>] (./SupplementaryMaterial.aux) ) 
+Here is how much of TeX's memory you used:
+ 2419 strings out of 476025
+ 46230 string characters out of 5790017
+ 1867388 words of memory out of 5000000
+ 22853 multiletter control sequences out of 15000+600000
+ 518900 words of font info for 54 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,11n,62p,645b,261s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2
+023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/20
+23/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/202
+3/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2023/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmtt10.pfb>
+Output written on ./SupplementaryMaterial.pdf (18 pages, 1238200 bytes).
+PDF statistics:
+ 1625 PDF objects out of 1728 (max. 8388607)
+ 169 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Lipidomics}{2}{}%
+\contentsline {section}{\numberline {2}Data overview}{4}{}%
+\contentsline {section}{\numberline {3}Data standardization}{4}{}%
+\contentsline {section}{\numberline {4}Regression model}{4}{}%
+\contentsline {section}{\numberline {5}Model fitting}{5}{}%
+\contentsline {section}{\numberline {6}Hypothesis testing}{7}{}%
+\contentsline {section}{References}{8}{}%

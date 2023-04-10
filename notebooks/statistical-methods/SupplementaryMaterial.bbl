@@ -1,0 +1,42 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Chan et~al.(2017)Chan, Perotte, Zhou, Liong, Shorr, Marder, Kang,
+  Waters, Levy, Xu, Shim, Pe’er, Di~Paolo, and Alcalay]{Chan2017}
+Robin~B. Chan, Adler~J. Perotte, Bowen Zhou, Christopher Liong, Evan~J. Shorr,
+  Karen~S. Marder, Un~J. Kang, Cheryl~H. Waters, Oren~A. Levy, Yimeng Xu,
+  Hong~Bin Shim, Itsik Pe’er, Gilbert Di~Paolo, and Roy~N. Alcalay.
+\newblock Elevated gm3 plasma concentration in idiopathic parkinson’s
+  disease: A lipidomic analysis.
+\newblock \emph{PLOS ONE}, 12\penalty0 (2):\penalty0 1--13, 02 2017.
+\newblock \doi{10.1371/journal.pone.0172348}.
+\newblock URL \url{https://doi.org/10.1371/journal.pone.0172348}.
+
+\bibitem[Guan et~al.(2013)Guan, Cestra, Shui, Kuhrs, Schittenhelm, Hafen,
+  van der Goot, Robinett, Gatti, Gonzalez-Gaitan, and Wenk]{Guan2013}
+Xue Li Guan, Gianluca Cestra, Guanghou Shui, Antje Kuhrs, Ralf B.
+  Schittenhelm, Ernst Hafen, F. Gisou van der Goot, Carmen C. Robinett,
+  Maurizio Gatti, Marcos Gonzalez-Gaitan, and Markus R. Wenk.
+\newblock Biochemical membrane lipidomics during drosophila development.
+\newblock \emph{Developmental Cell}, 24\penalty0 (1):\penalty0 98--111, 2013.
+\newblock ISSN 1534-5807.
+\newblock \doi{https://doi.org/10.1016/j.devcel.2012.11.012}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S1534580712005321}.
+
+\bibitem[Hartler et~al.(2014)Hartler, Köfeler, Trötzmüller, Thallinger, and
+  Spener]{Hartler2014}
+Jürgen Hartler, Harald~C. Köfeler, Martin Trötzmüller, Gerhard~G.
+  Thallinger, and Friedrich Spener.
+\newblock Assessment of lipidomic species in hepatocyte lipid droplets from
+  stressed mouse models.
+\newblock \emph{Scientific Data}, 1\penalty0 (1):\penalty0 140051, 2014.
+\newblock ISSN 2052-4463.
+\newblock \doi{10.1038/sdata.2014.51}.
+\newblock URL \url{https://doi.org/10.1038/sdata.2014.51}.
+
+\end{thebibliography}
