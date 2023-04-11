@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.30)  10 APR 2023 18:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.30)  10 APR 2023 21:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -471,6 +471,9 @@ urple.pdf>
 Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/l
 ine-ensemble-green-purple.pdf  used on input line 481.
 (pdftex.def)             Requested size: 430.00462pt x 486.33525pt.
+
+LaTeX Warning: Float too large for page by 11.80313pt on input line 492.
+
 [9 <./../../notebooks/2022-09-04-mixed-models/named-figure/raw-BMP-levels.png> 
 <./../../notebooks/2022-09-04-mixed-models/named-figure/norm-BMP-levels.png> <.
 /../../notebooks/2022-09-04-mixed-models/named-figure/raw-Sulf-levels.png> <./.
@@ -495,7 +498,7 @@ nsemble-green-purple.pdf>] (./SupplementaryMaterial.aux) )
 Here is how much of TeX's memory you used:
  2419 strings out of 476025
  46230 string characters out of 5790017
- 1867388 words of memory out of 5000000
+ 1866388 words of memory out of 5000000
  22853 multiletter control sequences out of 15000+600000
  518900 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -518,7 +521,7 @@ ype1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type
 /public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmtt10.pfb>
-Output written on ./SupplementaryMaterial.pdf (18 pages, 1238200 bytes).
+Output written on ./SupplementaryMaterial.pdf (18 pages, 1238298 bytes).
 PDF statistics:
  1625 PDF objects out of 1728 (max. 8388607)
  169 compressed objects within 2 object streams

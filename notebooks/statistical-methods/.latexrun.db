@@ -709,457 +709,9 @@
         [
           "file",
           [
-            "SupplementaryMaterial.toc"
-          ],
-          "78db04f275dff87134f86d8d0399c8a88937b0d77983f445d6c0a99f8d63f2a7"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii"
-          ],
-          "5dd3675b88c7b61d3703e6bf35ed75623acc6b163dff7b1477b485cee8ad71cb"
-        ],
-        [
-          "file",
-          [
-            "../2023-01-04-side-chain/named-figure/level-sidechain_len-SM.pdf"
-          ],
-          "075c7916a71422f1b96bf7dd6a8841a14e3c9a31e38512b1640b12341b3dab76"
-        ],
-        [
-          "file",
-          [
-            "../2022-09-04-mixed-models/named-figure/PMI-effect-on-estimate-pval.pdf"
-          ],
-          "de91ede3f1df81f97915cd28e73cb48d028fb746f874d85ad9710590c6a6a8fc"
-        ],
-        [
-          "file",
-          [
-            "../2023-01-04-side-chain/named-figure/level-sidechain_len-PC.pdf"
-          ],
-          "8b820238aeabf70cac4eb83bbefe093ab09f55305a0b193b138b796cfd9149ad"
-        ],
-        [
-          "file",
-          [
-            "../2022-09-04-mixed-models/named-figure/norm-BMP-levels.png"
-          ],
-          "0fb78144a803aabb95b4452b1be39fd32b7ba540f87b922deb8a9128cc4443f2"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb"
-          ],
-          "ca41102968b817bf6e8b22fd6de205ca23bf5088218511cce0c8129e1577cb70"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty"
-          ],
-          "1138730b9ad7d9f664b4760a4ea0ae0945afd21c006b76b67e623e863bbf3756"
-        ],
-        [
-          "file",
-          [
-            "../2022-09-04-mixed-models/named-figure/raw-LPS-levels.png"
-          ],
-          "a9d7605f1466167f86d41208486e3b4d3f4f23f21f54d59ac114f622514c86f3"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo"
-          ],
-          "2b52a9732e3136d634efc81bb31595757db97e477a7953f1bc087ead5ee3021a"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def"
-          ],
-          "6b0d3c7739f5344c3356bb0cef98bc17d8710e1e060914f42390d6503141c249"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb"
-          ],
-          "583b65bd1857bffc2ab184fcb4aad4e70e12eb05c9ca9f1c58c9a00a86c8bccf"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm"
-          ],
-          "1ce8af37ed38e93940829d3540e494eaaddc5201758d036b9074467e70a738dc"
-        ],
-        [
-          "file",
-          [
-            "../2022-09-04-mixed-models/named-figure/pvalues-PMI-effect.pdf"
-          ],
-          "5929572aebd63e88dcf5e3d2c5f5da8fd37cd63e23f488ad7ed78d1380895ef1"
-        ],
-        [
-          "file",
-          [
-            "../2022-09-04-mixed-models/named-figure/line-ensemble.pdf"
-          ],
-          "45f71eb358534ac5347848067359e4c4c7906119c744704572f12a4280f3133a"
-        ],
-        [
-          "file",
-          [
-            "../2022-09-04-mixed-models/named-figure/line-ensemble-green-purple.pdf"
-          ],
-          "47ea456b8d91bcdf0b49792e5cabe5f13211db96b8ac68fdb565dc0be3cd472d"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm"
-          ],
-          "9fb9cbe254c828bc6bdcc0ca66f81b6cb9b713edf0ef1b7fa67e231920112499"
-        ],
-        [
-          "file",
-          [
-            "../2022-09-04-mixed-models/named-figure/raw-BMP-levels.png"
-          ],
-          "fd59a9560196af62bec4c52c2db50018b90c6e5f2a34c7d6fb6c13d181dde69b"
-        ],
-        [
-          "file",
-          [
-            "SupplementaryMaterial.bbl"
-          ],
-          "ac40ea63ac528849f370b0a880a4dff1d2561c152fd756222652557bf6babcb2"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb"
-          ],
-          "c838238f31d86a9f198873dfaf501601a4fc966845b9c59e7dc251c4e85d1f1f"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb"
-          ],
-          "fdcede8794018df5f2b58f0905fb20a2b418ed8f67b73ee12445855dfbe5b1be"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb"
-          ],
-          "e3661061e8aa474d6de5ffa916edceb0e3d8b998862018c147f0357fce00bcd7"
-        ],
-        [
-          "file",
-          [
             "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm"
           ],
           "b57c5c42a7991a004ee1b40b340d7bd12cc75ab0a6f7daf7a207827504f91712"
-        ],
-        [
-          "file",
-          [
-            "../2022-09-04-mixed-models/named-figure/t-value-heatmap-fixed-mixed-models.pdf"
-          ],
-          "8a1b967ebcee379e8d321d2078627ee9eaad8e8eb7aa797dc533f71408b7f2dd"
-        ],
-        [
-          "file",
-          [
-            "../2022-09-04-mixed-models/named-figure/norm-Sulf-levels.png"
-          ],
-          "b1213e6c97d98c44d212812df8a26038492be8f9ae1f93f3abd2902d6079ae01"
-        ],
-        [
-          "file",
-          [
-            "../2022-09-04-mixed-models/named-figure/pvalues-corrected-wo-PMI.pdf"
-          ],
-          "c31001dc3b1bf2c216723accc77334c02f594ee9ffa220ab872390cee5191367"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm"
-          ],
-          "0eb2f13840155007c2d3c59b074322a3aa7358b9643aa314f3146468ae7f0806"
-        ],
-        [
-          "file",
-          [
-            "../2022-09-04-mixed-models/named-figure/raw-PCe-levels.png"
-          ],
-          "4a2761affdb9567f4c5382c0c9574a085761981746f413cd1f292892f9ea0ce0"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg"
-          ],
-          "feb91e48789a21e4acced98e952c77a2e2cf4a77e01bf147b59fa56a1b3f2008"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb"
-          ],
-          "62ee8cef552017551cd3e026a483e700730103eceaad959c87b7730017f59cff"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt"
-          ],
-          "82dbc814d423907a797d47fb8b6240e5c58382e193310dec8af8844c0c658d3c"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty"
-          ],
-          "e9fe8e56401707f18a3d18716dadfd1dab999d02118c82af05691599cedec445"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty"
-          ],
-          "c2a4f1d01abaf7ad739f1af03238ebb6ab35a7bbfbd5d713acceddda4fb043d5"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm"
-          ],
-          "ab6ecb4aaba9ca1b4259b1d1f64309a785bbaeb09183fd79a066b7764a448a28"
-        ],
-        [
-          "file",
-          [
-            "../2022-09-04-mixed-models/named-figure/p-value-heatmap-fixed-mixed-models.pdf"
-          ],
-          "17911fef15d3f0cd704949ff2652f71e5ede8e968ab13404452aec896230d03d"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map"
-          ],
-          "5acb71747b36f999ba24432f5e708b8b2ecca1754e8e10aba73a6b510259c713"
-        ],
-        [
-          "file",
-          [
-            "../2022-09-04-mixed-models/named-figure/norm-PCe-levels.png"
-          ],
-          "f6d2c778d04334a420e07dc2bf7e2884a07842953842d09ecadacb36e5060536"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb"
-          ],
-          "465827b4702e12f7deea159c8084753ffc27998963de516e490bd7bd5bed41dd"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls"
-          ],
-          "8a74bc9183e7a72cc12590bcdaf086eaf317de4f11df70b97a98eb3abb6d07e8"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm"
-          ],
-          "84c37f07ca360c41ad0a0fba7387d279d72457c69bdae03653208c683d8de6bc"
-        ],
-        [
-          "file",
-          [
-            "SupplementaryMaterial.tex"
-          ],
-          "5a7ee06e5351c86fbd23273dfaec5685a2741716f89e79bd43adfd0b9265244c"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb"
-          ],
-          "b6f162e1549a649c7e9b2edfb77306f60e1b0da74547f33cba39ff6ba0bdd473"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm"
-          ],
-          "0ca13d421ac7133271aed7c935099ecf3d1d08ac9e15f81acb34a16564ab8a46"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb"
-          ],
-          "b37e8671820b0753c6e233eaa3230c6ab9cff04e6c4baee312d60ae261e5aba1"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty"
-          ],
-          "3d2226e3d68b4255061baa496cc9cbc107816a7d364720c1bd8c83dccb047b64"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm"
-          ],
-          "11f3331c958b696fd484fe45c28285622617a2593d7a34511a1d6b279e1578a2"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb"
-          ],
-          "9b58bfa828b9553b7c8331cf26c45443b836f8aab62e820b40a5b65c8531dd42"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmti10.tfm"
-          ],
-          "46a66e937f809c4fbe317947b583a14b408aca41ecb835eca3be46391190432a"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr6.tfm"
-          ],
-          "106afa9172f0c00e58b9f5cbc72b302a18aaeeaddf50caca145af9cc0b81afd2"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty"
-          ],
-          "8434ad08617159240fd19b4fcae8bf79a6137af413f3798c8a750e9839f8902e"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty"
-          ],
-          "d5d36ad74051ad36288242b51438e2d9a5db2bd6c063b9b5704d0931fbc9f439"
-        ],
-        [
-          "file",
-          [
-            "../2022-09-02-lipid-ch-ac/named-figure/clustermap-std.png"
-          ],
-          "46cbae41dd4be4d8cca13386fbc423c195821ac0b0fec703d2ecae8529f357b1"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg"
-          ],
-          "10db2171b6e267720299c10b9e84f92c5cf069941dbfe3760e198304e49d5324"
-        ],
-        [
-          "file",
-          [
-            "../2022-09-04-mixed-models/named-figure/all-qq-plots-fixed-fx.pdf"
-          ],
-          "f1dc38b3cb154b5e0dff5f33e2fd013ae4014bacaa7a094f33f3c7587223ee15"
-        ],
-        [
-          "file",
-          [
-            "SupplementaryMaterial.aux"
-          ],
-          "a0fbe87d06c68c466559d4e7a393f9852283cef5d996c4e949c3594a28bf6e47"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm"
-          ],
-          "65af8c1e162a952cab8e93c834fcf43ce09b508e6c16e512ebb673cd850b0d41"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm"
-          ],
-          "137eb9f38f661c66309614066a7b5d63d8969d33aba0c9efee9f844a4ce65b50"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr17.tfm"
-          ],
-          "86b6e8a52aae6ad1655e32099e12bd2904b158aba4c8afb74143266d2d9cd18f"
-        ],
-        [
-          "file",
-          [
-            "../2022-09-04-mixed-models/named-figure/norm-LPS-levels.png"
-          ],
-          "c28b59d81087835e82ca97290fad6f2942b2dca7fd919103415faf2e82f5d05e"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map"
-          ],
-          "d9693993efdc7d0b9ab3df777589995d43e24eeae95f12b6a230a19caadeaa42"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm"
-          ],
-          "79563547084d85388e6909888f9fa7f5cad33bdda44ca6b25b362e1d301db539"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb"
-          ],
-          "ba5207eea69eaa9b598de2bd3d9aef27c4ff9831524400f70ff6a0dd3e36059b"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb"
-          ],
-          "791b31aa1db8608d0144b3a40fc0fe53383a60f6b00d0e8fd9f06ac4a11df8cb"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty"
-          ],
-          "36e2e612e708d04785971d6bcfed324d0a0f9ce337ea73680e69dd2603d0327a"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf.cnf"
-          ],
-          "d19ce211ac8b479d27d239bdef1aec8ca421c475986fabb1b415096b1287f4da"
         ],
         [
           "file",
@@ -1171,6 +723,20 @@
         [
           "file",
           [
+            "../2022-09-04-mixed-models/named-figure/raw-BMP-levels.png"
+          ],
+          "fd59a9560196af62bec4c52c2db50018b90c6e5f2a34c7d6fb6c13d181dde69b"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb"
+          ],
+          "465827b4702e12f7deea159c8084753ffc27998963de516e490bd7bd5bed41dd"
+        ],
+        [
+          "file",
+          [
             "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr8.tfm"
           ],
           "4c5ae243ac0aa254e7ec7f0602cc2a4351e5011ff0cb6dc150a5f6de19585de6"
@@ -1178,16 +744,51 @@
         [
           "file",
           [
-            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb"
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm"
           ],
-          "c31dbaffb861162eadf3a7210bdf271b0dda577841aed4c0572069b0d52662b6"
+          "ab6ecb4aaba9ca1b4259b1d1f64309a785bbaeb09183fd79a066b7764a448a28"
         ],
         [
           "file",
           [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm"
+            "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf"
           ],
-          "e7b284f0ee98b7773be9b57ca652b4bb14391370509a424b5b62b06b5cae86e4"
+          "271578349b62a41077a28b2eb9be1f16d782590825a6acc8ee8cc979dbde37a8"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm"
+          ],
+          "137eb9f38f661c66309614066a7b5d63d8969d33aba0c9efee9f844a4ce65b50"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def"
+          ],
+          "6b0d3c7739f5344c3356bb0cef98bc17d8710e1e060914f42390d6503141c249"
+        ],
+        [
+          "file",
+          [
+            "SupplementaryMaterial.bbl"
+          ],
+          "ac40ea63ac528849f370b0a880a4dff1d2561c152fd756222652557bf6babcb2"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm"
+          ],
+          "11f3331c958b696fd484fe45c28285622617a2593d7a34511a1d6b279e1578a2"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map"
+          ],
+          "5acb71747b36f999ba24432f5e708b8b2ecca1754e8e10aba73a6b510259c713"
         ],
         [
           "file",
@@ -1199,65 +800,44 @@
         [
           "file",
           [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm"
+            "/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls"
           ],
-          "20672649a2f07eef8fe07ccb42eeb731023e48f2e0797ecef57c0887da46c032"
+          "8a74bc9183e7a72cc12590bcdaf086eaf317de4f11df70b97a98eb3abb6d07e8"
         ],
         [
           "file",
           [
-            "/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty"
+            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb"
           ],
-          "2de50639c1f27201f2b4d04e9083e0a51fc5a73b8908eea2e80d6e3205636d4a"
+          "fdcede8794018df5f2b58f0905fb20a2b418ed8f67b73ee12445855dfbe5b1be"
         ],
         [
           "file",
           [
-            "SupplementaryMaterial.lof"
+            "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map"
           ],
-          "845cb3e581fd8a3fada4854fe65bfc630c8a513b9a90bba33279775268677fe8"
+          "d9693993efdc7d0b9ab3df777589995d43e24eeae95f12b6a230a19caadeaa42"
         ],
         [
           "file",
           [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr9.tfm"
+            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb"
           ],
-          "2ffa73e8446c1d46c3509a0f65ff97d4d09de46f48e1ce578a1004498b67dba9"
+          "583b65bd1857bffc2ab184fcb4aad4e70e12eb05c9ca9f1c58c9a00a86c8bccf"
         ],
         [
           "file",
           [
-            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb"
+            "/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty"
           ],
-          "c7d9ebe6b8313e0eeee8f9ed4d4e7069c74cfa9d9b64295f0f487e4662281a62"
+          "36e2e612e708d04785971d6bcfed324d0a0f9ce337ea73680e69dd2603d0327a"
         ],
         [
           "file",
           [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm"
+            "../2022-09-04-mixed-models/named-figure/all-qq-plots-fixed-fx.pdf"
           ],
-          "38ded79d7cce07fa28921f37f6b88e67bd86951a3e5af709c219d63454786ce1"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm"
-          ],
-          "ae296e8e41b2b0f73e9a17fdc42c743b9ddcc58d23c30acaa3411206f7824780"
-        ],
-        [
-          "file",
-          [
-            "../2022-09-04-mixed-models/named-figure/raw-Sulf-levels.png"
-          ],
-          "72ac53ea4a942a4fbf84a532f88d83aa80d6b7276ca017d876e55c38caa3f1d1"
-        ],
-        [
-          "file",
-          [
-            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb"
-          ],
-          "5b293a581ddb937b02559c3ce1a60184cc434295533204a2cd3864a6ad8a1f53"
+          "f1dc38b3cb154b5e0dff5f33e2fd013ae4014bacaa7a094f33f3c7587223ee15"
         ],
         [
           "file",
@@ -1269,6 +849,48 @@
         [
           "file",
           [
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm"
+          ],
+          "20672649a2f07eef8fe07ccb42eeb731023e48f2e0797ecef57c0887da46c032"
+        ],
+        [
+          "file",
+          [
+            "../2022-09-04-mixed-models/named-figure/norm-Sulf-levels.png"
+          ],
+          "b1213e6c97d98c44d212812df8a26038492be8f9ae1f93f3abd2902d6079ae01"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmti10.tfm"
+          ],
+          "46a66e937f809c4fbe317947b583a14b408aca41ecb835eca3be46391190432a"
+        ],
+        [
+          "file",
+          [
+            "../2022-09-04-mixed-models/named-figure/line-ensemble.pdf"
+          ],
+          "45f71eb358534ac5347848067359e4c4c7906119c744704572f12a4280f3133a"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm"
+          ],
+          "0eb2f13840155007c2d3c59b074322a3aa7358b9643aa314f3146468ae7f0806"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr6.tfm"
+          ],
+          "106afa9172f0c00e58b9f5cbc72b302a18aaeeaddf50caca145af9cc0b81afd2"
+        ],
+        [
+          "file",
+          [
             "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb"
           ],
           "9fe20cb9ef24a0f4c74d38a65d4eee5cff3165f3b8600407ceba396aeb2b7617"
@@ -1276,28 +898,254 @@
         [
           "file",
           [
-            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb"
+            "/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg"
           ],
-          "d6bdecc0378f3cd16683d1ac348bdbc4ccde9a552e87b53fe9e2de5cfc7aa61d"
+          "feb91e48789a21e4acced98e952c77a2e2cf4a77e01bf147b59fa56a1b3f2008"
         ],
         [
           "file",
           [
-            "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf"
+            "/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg"
           ],
-          "271578349b62a41077a28b2eb9be1f16d782590825a6acc8ee8cc979dbde37a8"
-        ],
-        [
-          "unknown_input",
-          [],
-          1681165625.90178
+          "10db2171b6e267720299c10b9e84f92c5cf069941dbfe3760e198304e49d5324"
         ],
         [
           "file",
           [
-            "SupplementaryMaterial.aux"
+            "../2022-09-04-mixed-models/named-figure/p-value-heatmap-fixed-mixed-models.pdf"
           ],
-          "9f94a38f6c21cae099096b2b66c19713fe32119d413ccc341d8584761f33ae9f"
+          "17911fef15d3f0cd704949ff2652f71e5ede8e968ab13404452aec896230d03d"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf.cnf"
+          ],
+          "d19ce211ac8b479d27d239bdef1aec8ca421c475986fabb1b415096b1287f4da"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty"
+          ],
+          "c2a4f1d01abaf7ad739f1af03238ebb6ab35a7bbfbd5d713acceddda4fb043d5"
+        ],
+        [
+          "file",
+          [
+            "../2022-09-04-mixed-models/named-figure/raw-Sulf-levels.png"
+          ],
+          "72ac53ea4a942a4fbf84a532f88d83aa80d6b7276ca017d876e55c38caa3f1d1"
+        ],
+        [
+          "file",
+          [
+            "../2023-01-04-side-chain/named-figure/level-sidechain_len-SM.pdf"
+          ],
+          "075c7916a71422f1b96bf7dd6a8841a14e3c9a31e38512b1640b12341b3dab76"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr9.tfm"
+          ],
+          "2ffa73e8446c1d46c3509a0f65ff97d4d09de46f48e1ce578a1004498b67dba9"
+        ],
+        [
+          "file",
+          [
+            "../2023-01-04-side-chain/named-figure/level-sidechain_len-PC.pdf"
+          ],
+          "8b820238aeabf70cac4eb83bbefe093ab09f55305a0b193b138b796cfd9149ad"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm"
+          ],
+          "9fb9cbe254c828bc6bdcc0ca66f81b6cb9b713edf0ef1b7fa67e231920112499"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty"
+          ],
+          "2de50639c1f27201f2b4d04e9083e0a51fc5a73b8908eea2e80d6e3205636d4a"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb"
+          ],
+          "791b31aa1db8608d0144b3a40fc0fe53383a60f6b00d0e8fd9f06ac4a11df8cb"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm"
+          ],
+          "ae296e8e41b2b0f73e9a17fdc42c743b9ddcc58d23c30acaa3411206f7824780"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb"
+          ],
+          "5b293a581ddb937b02559c3ce1a60184cc434295533204a2cd3864a6ad8a1f53"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty"
+          ],
+          "d5d36ad74051ad36288242b51438e2d9a5db2bd6c063b9b5704d0931fbc9f439"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt"
+          ],
+          "82dbc814d423907a797d47fb8b6240e5c58382e193310dec8af8844c0c658d3c"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr17.tfm"
+          ],
+          "86b6e8a52aae6ad1655e32099e12bd2904b158aba4c8afb74143266d2d9cd18f"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb"
+          ],
+          "c838238f31d86a9f198873dfaf501601a4fc966845b9c59e7dc251c4e85d1f1f"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb"
+          ],
+          "b37e8671820b0753c6e233eaa3230c6ab9cff04e6c4baee312d60ae261e5aba1"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo"
+          ],
+          "2b52a9732e3136d634efc81bb31595757db97e477a7953f1bc087ead5ee3021a"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty"
+          ],
+          "e9fe8e56401707f18a3d18716dadfd1dab999d02118c82af05691599cedec445"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb"
+          ],
+          "e3661061e8aa474d6de5ffa916edceb0e3d8b998862018c147f0357fce00bcd7"
+        ],
+        [
+          "file",
+          [
+            "../2022-09-04-mixed-models/named-figure/pvalues-corrected-wo-PMI.pdf"
+          ],
+          "c31001dc3b1bf2c216723accc77334c02f594ee9ffa220ab872390cee5191367"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb"
+          ],
+          "ba5207eea69eaa9b598de2bd3d9aef27c4ff9831524400f70ff6a0dd3e36059b"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm"
+          ],
+          "79563547084d85388e6909888f9fa7f5cad33bdda44ca6b25b362e1d301db539"
+        ],
+        [
+          "file",
+          [
+            "../2022-09-04-mixed-models/named-figure/t-value-heatmap-fixed-mixed-models.pdf"
+          ],
+          "8a1b967ebcee379e8d321d2078627ee9eaad8e8eb7aa797dc533f71408b7f2dd"
+        ],
+        [
+          "file",
+          [
+            "../2022-09-04-mixed-models/named-figure/norm-LPS-levels.png"
+          ],
+          "c28b59d81087835e82ca97290fad6f2942b2dca7fd919103415faf2e82f5d05e"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb"
+          ],
+          "c7d9ebe6b8313e0eeee8f9ed4d4e7069c74cfa9d9b64295f0f487e4662281a62"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm"
+          ],
+          "0ca13d421ac7133271aed7c935099ecf3d1d08ac9e15f81acb34a16564ab8a46"
+        ],
+        [
+          "file",
+          [
+            "../2022-09-02-lipid-ch-ac/named-figure/clustermap-std.png"
+          ],
+          "46cbae41dd4be4d8cca13386fbc423c195821ac0b0fec703d2ecae8529f357b1"
+        ],
+        [
+          "file",
+          [
+            "../2022-09-04-mixed-models/named-figure/pvalues-PMI-effect.pdf"
+          ],
+          "5929572aebd63e88dcf5e3d2c5f5da8fd37cd63e23f488ad7ed78d1380895ef1"
+        ],
+        [
+          "file",
+          [
+            "../2022-09-04-mixed-models/named-figure/norm-BMP-levels.png"
+          ],
+          "0fb78144a803aabb95b4452b1be39fd32b7ba540f87b922deb8a9128cc4443f2"
+        ],
+        [
+          "file",
+          [
+            "SupplementaryMaterial.tex"
+          ],
+          "f46eb236be6afd8274750d42a0b1d83fe859aa27eb125241d93ffa475e831883"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty"
+          ],
+          "1138730b9ad7d9f664b4760a4ea0ae0945afd21c006b76b67e623e863bbf3756"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm"
+          ],
+          "1ce8af37ed38e93940829d3540e494eaaddc5201758d036b9074467e70a738dc"
+        ],
+        [
+          "file",
+          [
+            "../2022-09-04-mixed-models/named-figure/raw-LPS-levels.png"
+          ],
+          "a9d7605f1466167f86d41208486e3b4d3f4f23f21f54d59ac114f622514c86f3"
         ],
         [
           "file",
@@ -1309,32 +1157,170 @@
         [
           "file",
           [
-            "./SupplementaryMaterial.fls"
+            "/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii"
           ],
-          "0a64ad7eee901e42e75aa9af8ee602832f2491316b88cbda6defbd3b54684b49"
+          "5dd3675b88c7b61d3703e6bf35ed75623acc6b163dff7b1477b485cee8ad71cb"
+        ],
+        [
+          "file",
+          [
+            "../2022-09-04-mixed-models/named-figure/PMI-effect-on-estimate-pval.pdf"
+          ],
+          "de91ede3f1df81f97915cd28e73cb48d028fb746f874d85ad9710590c6a6a8fc"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb"
+          ],
+          "9b58bfa828b9553b7c8331cf26c45443b836f8aab62e820b40a5b65c8531dd42"
+        ],
+        [
+          "file",
+          [
+            "SupplementaryMaterial.aux"
+          ],
+          "9f94a38f6c21cae099096b2b66c19713fe32119d413ccc341d8584761f33ae9f"
+        ],
+        [
+          "file",
+          [
+            "../2022-09-04-mixed-models/named-figure/raw-PCe-levels.png"
+          ],
+          "4a2761affdb9567f4c5382c0c9574a085761981746f413cd1f292892f9ea0ce0"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm"
+          ],
+          "38ded79d7cce07fa28921f37f6b88e67bd86951a3e5af709c219d63454786ce1"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm"
+          ],
+          "65af8c1e162a952cab8e93c834fcf43ce09b508e6c16e512ebb673cd850b0d41"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb"
+          ],
+          "62ee8cef552017551cd3e026a483e700730103eceaad959c87b7730017f59cff"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm"
+          ],
+          "84c37f07ca360c41ad0a0fba7387d279d72457c69bdae03653208c683d8de6bc"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm"
+          ],
+          "e7b284f0ee98b7773be9b57ca652b4bb14391370509a424b5b62b06b5cae86e4"
+        ],
+        [
+          "file",
+          [
+            "../2022-09-04-mixed-models/named-figure/line-ensemble-green-purple.pdf"
+          ],
+          "47ea456b8d91bcdf0b49792e5cabe5f13211db96b8ac68fdb565dc0be3cd472d"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb"
+          ],
+          "b6f162e1549a649c7e9b2edfb77306f60e1b0da74547f33cba39ff6ba0bdd473"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty"
+          ],
+          "8434ad08617159240fd19b4fcae8bf79a6137af413f3798c8a750e9839f8902e"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb"
+          ],
+          "c31dbaffb861162eadf3a7210bdf271b0dda577841aed4c0572069b0d52662b6"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty"
+          ],
+          "3d2226e3d68b4255061baa496cc9cbc107816a7d364720c1bd8c83dccb047b64"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb"
+          ],
+          "ca41102968b817bf6e8b22fd6de205ca23bf5088218511cce0c8129e1577cb70"
+        ],
+        [
+          "file",
+          [
+            "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb"
+          ],
+          "d6bdecc0378f3cd16683d1ac348bdbc4ccde9a552e87b53fe9e2de5cfc7aa61d"
+        ],
+        [
+          "file",
+          [
+            "SupplementaryMaterial.toc"
+          ],
+          "78db04f275dff87134f86d8d0399c8a88937b0d77983f445d6c0a99f8d63f2a7"
+        ],
+        [
+          "file",
+          [
+            "../2022-09-04-mixed-models/named-figure/norm-PCe-levels.png"
+          ],
+          "f6d2c778d04334a420e07dc2bf7e2884a07842953842d09ecadacb36e5060536"
+        ],
+        [
+          "unknown_input",
+          [],
+          1681174914.173121
         ],
         [
           "file",
           [
             "SupplementaryMaterial.pdf"
           ],
-          "0e89e9e61f3f611152931cf368c6cd29c92ea70c71d2b98f79a6226e29b31b13"
+          "50d9c56420eb02e9b1ada307ffa95c299460ff997d7770b9e222db2167b5238f"
         ],
         [
           "file",
           [
             "SupplementaryMaterial.log"
           ],
-          "a76c4ff075b05832e0cc3339224243bbaf93ef840e00fbf0c0a7fda0886ddf41"
+          "ded2717d5831c3b7c3cc64498c8e36e11fe984523c44ba26d679adfc6aa8dca7"
+        ],
+        [
+          "file",
+          [
+            "./SupplementaryMaterial.fls"
+          ],
+          "0a64ad7eee901e42e75aa9af8ee602832f2491316b88cbda6defbd3b54684b49"
         ]
       ],
       "output_files": {
-        "SupplementaryMaterial.toc": "78db04f275dff87134f86d8d0399c8a88937b0d77983f445d6c0a99f8d63f2a7",
-        "SupplementaryMaterial.aux": "9f94a38f6c21cae099096b2b66c19713fe32119d413ccc341d8584761f33ae9f",
-        "SupplementaryMaterial.lof": "7aceae92beb478f06ac4dcb988afbdee13b7a97575f0b03928c088bea5ee9e90",
+        "SupplementaryMaterial.pdf": "50d9c56420eb02e9b1ada307ffa95c299460ff997d7770b9e222db2167b5238f",
+        "SupplementaryMaterial.log": "ded2717d5831c3b7c3cc64498c8e36e11fe984523c44ba26d679adfc6aa8dca7",
         "./SupplementaryMaterial.fls": "0a64ad7eee901e42e75aa9af8ee602832f2491316b88cbda6defbd3b54684b49",
-        "SupplementaryMaterial.pdf": "0e89e9e61f3f611152931cf368c6cd29c92ea70c71d2b98f79a6226e29b31b13",
-        "SupplementaryMaterial.log": "a76c4ff075b05832e0cc3339224243bbaf93ef840e00fbf0c0a7fda0886ddf41"
+        "SupplementaryMaterial.lof": "7aceae92beb478f06ac4dcb988afbdee13b7a97575f0b03928c088bea5ee9e90",
+        "SupplementaryMaterial.toc": "78db04f275dff87134f86d8d0399c8a88937b0d77983f445d6c0a99f8d63f2a7",
+        "SupplementaryMaterial.aux": "9f94a38f6c21cae099096b2b66c19713fe32119d413ccc341d8584761f33ae9f"
       },
       "extra": {
         "jobname": "./SupplementaryMaterial",
@@ -1457,10 +1443,10 @@
     "statistical-methods.toc": "eb30bc2f575b47bb5a0d6c699b7b7ff9347e944dfe96ab8ab25e44b6b396cf6b",
     "statistical-methods.lof": "835b36e2e5a115c6ac6a8dc870932f72473d275b84b7f95d15876d052be94bfe",
     "SupplementaryMaterial.lof": "7aceae92beb478f06ac4dcb988afbdee13b7a97575f0b03928c088bea5ee9e90",
-    "SupplementaryMaterial.pdf": "0e89e9e61f3f611152931cf368c6cd29c92ea70c71d2b98f79a6226e29b31b13",
+    "SupplementaryMaterial.pdf": "50d9c56420eb02e9b1ada307ffa95c299460ff997d7770b9e222db2167b5238f",
     "SupplementaryMaterial.aux": "9f94a38f6c21cae099096b2b66c19713fe32119d413ccc341d8584761f33ae9f",
     "./SupplementaryMaterial.fls": "0a64ad7eee901e42e75aa9af8ee602832f2491316b88cbda6defbd3b54684b49",
-    "SupplementaryMaterial.log": "a76c4ff075b05832e0cc3339224243bbaf93ef840e00fbf0c0a7fda0886ddf41",
+    "SupplementaryMaterial.log": "ded2717d5831c3b7c3cc64498c8e36e11fe984523c44ba26d679adfc6aa8dca7",
     "SupplementaryMaterial.toc": "78db04f275dff87134f86d8d0399c8a88937b0d77983f445d6c0a99f8d63f2a7",
     "./SupplementaryMaterial.bbl": "82520e0019d53336e35e1849e7116ff6de11f07bfdf83abc5cbe25b6394e1ae8",
     "./SupplementaryMaterial.blg": "739de5cd6991b7a40e5d7d2efdbf43df18fad82d7ec341b3b56897a358d81059"
