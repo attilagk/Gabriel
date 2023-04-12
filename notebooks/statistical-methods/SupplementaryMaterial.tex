@@ -311,9 +311,9 @@ Benjamini-Hochberg procedure.
 \begin{figure}[p]
 	\includegraphics[width=0.5\textwidth]{../../notebooks/2022-09-04-mixed-models/named-figure/raw-BMP-levels.png}
 	\includegraphics[width=0.5\textwidth]{../../notebooks/2022-09-04-mixed-models/named-figure/norm-BMP-levels.png}
-	\caption[Unstandardized and standardized BMP levels]{
-	Unstandardized (left) and standardized (right) BMP levels.  Both
-	unstandardized and standardized data have been normalized to mol \%.  In
+	\caption[Non-standardized and standardized BMP levels]{
+	Non-standardized (left) and standardized (right) BMP levels.  Both
+	non-standardized and standardized data have been normalized to mol \%.  In
 	this figure and in Fig.~S\ref{fig:heatmap-Sulf}-S\ref{fig:heatmap-LPS} the
 	darkest blue and red denote -3 and 3 $\times$ the standard deviation of
 	lipid level across all 30 observations, respectively.
@@ -325,8 +325,8 @@ Benjamini-Hochberg procedure.
 	\includegraphics[width=0.5\textwidth]{../../notebooks/2022-09-04-mixed-models/named-figure/raw-Sulf-levels.png}
 	\includegraphics[width=0.5\textwidth]{../../notebooks/2022-09-04-mixed-models/named-figure/norm-Sulf-levels.png}
 	\caption[Raw and standardized Sulf levels]{
-	Unstandardized (left) and standardized (right) Sulf levels.  Both
-	unstandardized and standardized data have been normalized to mol \%.  
+	Non-standardized (left) and standardized (right) Sulf levels.  Both
+	non-standardized and standardized data have been normalized to mol \%.  
 }
 \label{fig:heatmap-Sulf}
 \end{figure}
@@ -335,8 +335,8 @@ Benjamini-Hochberg procedure.
 	\includegraphics[width=0.5\textwidth]{../../notebooks/2022-09-04-mixed-models/named-figure/raw-PCe-levels.png}
 	\includegraphics[width=0.5\textwidth]{../../notebooks/2022-09-04-mixed-models/named-figure/norm-PCe-levels.png}
 	\caption[Raw and standardized PCe levels]{
-	Unstandardized (left) and standardized (right) PCe levels.  Both
-	unstandardized and standardized data have been normalized to mol \%.  
+	Non-standardized (left) and standardized (right) PCe levels.  Both
+	non-standardized and standardized data have been normalized to mol \%.  
 }
 \label{fig:heatmap-PCe}
 \end{figure}
@@ -345,8 +345,8 @@ Benjamini-Hochberg procedure.
 	\includegraphics[width=0.5\textwidth]{../../notebooks/2022-09-04-mixed-models/named-figure/raw-LPS-levels.png}
 	\includegraphics[width=0.5\textwidth]{../../notebooks/2022-09-04-mixed-models/named-figure/norm-LPS-levels.png}
 	\caption[Raw and standardized LPS levels]{
-	Unstandardized (left) and standardized (right) LPS levels.  Both
-	unstandardized and standardized data have been normalized to mol \%.  
+	Non-standardized (left) and standardized (right) LPS levels.  Both
+	non-standardized and standardized data have been normalized to mol \%.  
 }
 \label{fig:heatmap-LPS}
 \end{figure}
@@ -492,11 +492,56 @@ Benjamini-Hochberg procedure.
 \end{figure}
 
 \begin{figure}[p]
-	\includegraphics[width=0.7SM['Deg. unsat. ch.1'].unique()5\textwidth]{../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-PCe.pdf}
-	\caption[PCe level across various side chain lengths and degrees of unsaturation]{
-	PCe level across various side chain lengths and degrees of unsaturation.
+	\includegraphics[width=0.75\textwidth]{../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-BMP.pdf}
+	\caption[BMP levels across various side chain lengths and degrees of unsaturation]{
+		Standardized BMP levels across various side chain lengths and degrees of unsaturation.
+		$y$ axes: BMP level. $x$ axes: side chain length. Rows: 
+		degrees of unsaturation, labelled as $\mathrm{du} = 0,...$). Columns:
+		brain regions.
+		Note that for each side chain length at each
+		graph we have six Control points and four ChAc points (blue and orange $+$
+		symbols, respectively).  Colored straight solid lines: ordinary
+		least square fitted curves.  Colored shades: confidence intervals.
 }
-\label{fig:sidechain-SM}
+\label{fig:sidechain-BMP}
+\end{figure}
+
+
+\begin{figure}[p]
+	\includegraphics[width=0.75\textwidth]{../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-LPS.pdf}
+	\caption[LPS levels across various side chain lengths and degrees of unsaturation]{
+		Standardized LPS levels across various side chain lengths and degrees of unsaturation.
+		See Fig.~S\ref{fig:sidechain-BMP} for details.
+}
+\label{fig:sidechain-LPS}
+\end{figure}
+
+
+\begin{figure}[p]
+	\includegraphics[width=0.75\textwidth]{../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-PCe.pdf}
+	\caption[PCe levels across various side chain lengths and degrees of unsaturation]{
+		Standardized PCe levels across various side chain lengths and degrees of unsaturation.
+		See Fig.~S\ref{fig:sidechain-BMP} for details.
+}
+\label{fig:sidechain-PCe}
+\end{figure}
+
+
+\begin{figure}[p]
+	\includegraphics[width=0.75\textwidth]{../../notebooks/2023-01-04-side-chain/named-figure/level-2_sidechain_len-Sulf.pdf}
+	\caption[Sulf levels across various side chain lengths and degrees of unsaturation]{
+		Standardized Sulf levels across various side chain lengths and degrees of unsaturation.
+		$y$ axes: BMP level. $x$ axes: side chain length. Rows: 
+		degrees of unsaturation, labelled as $\mathrm{du} = (0,0), ...$). Columns:
+		brain regions.
+	While BMP, LPS and PCe
+	(Fig.~S\ref{fig:sidechain-BMP}-S\ref{fig:sidechain-PCe}) have only one side
+	chain, Sulf has two.  Hence, we have, e.g, $\mathrm{du} = (1,0)$, which means
+	degree of unsaturation of 1 for chain 1 and that of 0 for chain 2.  The
+	length displayed on the $x$ axis is that of side chain 2, while side chain 1
+	is invariably of length 18.
+}
+\label{fig:sidechain-Sulf}
 \end{figure}
 
 

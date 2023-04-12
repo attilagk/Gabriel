@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.30)  11 APR 2023 21:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.30)  11 APR 2023 23:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -175,14 +175,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 1.
-)
+ [1
+
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@lof=\write4
 \openout4 = `SupplementaryMaterial.lof'.
 
- [1
-
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
- [4]
+ [2] [3] [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 234.
 
@@ -451,15 +450,42 @@ ine-ensemble-green-purple.pdf  used on input line 481.
 
 LaTeX Warning: Float too large for page by 11.80313pt on input line 492.
 
+<../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-BMP.p
+df, id=63, 451.72766pt x 615.7404pt>
+File: ../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-
+BMP.pdf Graphic file (type pdf)
+<use ../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-B
+MP.pdf>
+Package pdftex.def Info: ../../notebooks/2023-01-04-side-chain/named-figure/lev
+el-1_sidechain_len-BMP.pdf  used on input line 495.
+(pdftex.def)             Requested size: 322.50346pt x 439.60275pt.
+<../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-LPS.p
+df, id=64, 451.72766pt x 239.93639pt>
+File: ../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-
+LPS.pdf Graphic file (type pdf)
+<use ../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-L
+PS.pdf>
+Package pdftex.def Info: ../../notebooks/2023-01-04-side-chain/named-figure/lev
+el-1_sidechain_len-LPS.pdf  used on input line 511.
+(pdftex.def)             Requested size: 322.50346pt x 171.30058pt.
 <../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-PCe.p
-df, id=63, 396.0396pt x 575.2692pt>
+df, id=65, 451.72766pt x 615.7404pt>
 File: ../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-
 PCe.pdf Graphic file (type pdf)
 <use ../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-P
 Ce.pdf>
 Package pdftex.def Info: ../../notebooks/2023-01-04-side-chain/named-figure/lev
-el-1_sidechain_len-PCe.pdf  used on input line 495.
-(pdftex.def)             Requested size: 322.50346pt x 468.45842pt.
+el-1_sidechain_len-PCe.pdf  used on input line 521.
+(pdftex.def)             Requested size: 322.50346pt x 439.60275pt.
+<../../notebooks/2023-01-04-side-chain/named-figure/level-2_sidechain_len-Sulf.
+pdf, id=66, 451.72766pt x 239.93639pt>
+File: ../../notebooks/2023-01-04-side-chain/named-figure/level-2_sidechain_len-
+Sulf.pdf Graphic file (type pdf)
+<use ../../notebooks/2023-01-04-side-chain/named-figure/level-2_sidechain_len-S
+ulf.pdf>
+Package pdftex.def Info: ../../notebooks/2023-01-04-side-chain/named-figure/lev
+el-2_sidechain_len-Sulf.pdf  used on input line 531.
+(pdftex.def)             Requested size: 322.50346pt x 171.30058pt.
 [9 <./../../notebooks/2022-09-04-mixed-models/named-figure/raw-BMP-levels.png> 
 <./../../notebooks/2022-09-04-mixed-models/named-figure/norm-BMP-levels.png> <.
 /../../notebooks/2022-09-04-mixed-models/named-figure/raw-Sulf-levels.png> <./.
@@ -479,37 +505,41 @@ figure/p-value-heatmap-fixed-mixed-models.pdf>] [14 <./../../notebooks/2022-09-
 ] [17 <./../../notebooks/2022-09-04-mixed-models/named-figure/line-ensemble.pdf
 >] [18 <./../../notebooks/2022-09-04-mixed-models/named-figure/line-ensemble-gr
 een-purple.pdf>] [19 <./../../notebooks/2023-01-04-side-chain/named-figure/leve
-l-1_sidechain_len-PCe.pdf>] (./SupplementaryMaterial.aux) ) 
+l-1_sidechain_len-BMP.pdf>] [20 <./../../notebooks/2023-01-04-side-chain/named-
+figure/level-1_sidechain_len-LPS.pdf>] [21 <./../../notebooks/2023-01-04-side-c
+hain/named-figure/level-1_sidechain_len-PCe.pdf>] [22 <./../../notebooks/2023-0
+1-04-side-chain/named-figure/level-2_sidechain_len-Sulf.pdf>]
+(./SupplementaryMaterial.aux) ) 
 Here is how much of TeX's memory you used:
- 2412 strings out of 476025
- 45708 string characters out of 5790017
+ 2436 strings out of 476025
+ 47466 string characters out of 5790017
  1866388 words of memory out of 5000000
- 22847 multiletter control sequences out of 15000+600000
+ 22868 multiletter control sequences out of 15000+600000
  518900 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,62p,645b,261s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/
-2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2
-023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/20
-23/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/202
-3/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2023/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmtt10.pfb>
-Output written on ./SupplementaryMaterial.pdf (19 pages, 1316141 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.p
+fb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
+b></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
+>
+Output written on ./SupplementaryMaterial.pdf (22 pages, 1573783 bytes).
 PDF statistics:
- 1618 PDF objects out of 1728 (max. 8388607)
- 167 compressed objects within 2 object streams
+ 1840 PDF objects out of 2073 (max. 8388607)
+ 188 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
