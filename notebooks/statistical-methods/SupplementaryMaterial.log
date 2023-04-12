@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.30)  10 APR 2023 21:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.30)  11 APR 2023 21:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -398,31 +398,8 @@ d-mixed-models.pdf Graphic file (type pdf)
 Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/p
 -value-heatmap-fixed-mixed-models.pdf  used on input line 386.
 (pdftex.def)             Requested size: 430.00462pt x 100.97519pt.
-<../../notebooks/2023-01-04-side-chain/named-figure/level-sidechain_len-SM.pdf,
- id=58, 402.42282pt x 435.0654pt>
-File: ../../notebooks/2023-01-04-side-chain/named-figure/level-sidechain_len-SM
-.pdf Graphic file (type pdf)
-<use ../../notebooks/2023-01-04-side-chain/named-figure/level-sidechain_len-SM.
-pdf>
-Package pdftex.def Info: ../../notebooks/2023-01-04-side-chain/named-figure/lev
-el-sidechain_len-SM.pdf  used on input line 414.
-(pdftex.def)             Requested size: 215.0023pt x 232.44899pt.
-<../../notebooks/2023-01-04-side-chain/named-figure/level-sidechain_len-PC.pdf,
- id=59, 396.0396pt x 435.0654pt>
-File: ../../notebooks/2023-01-04-side-chain/named-figure/level-sidechain_len-PC
-.pdf Graphic file (type pdf)
-<use ../../notebooks/2023-01-04-side-chain/named-figure/level-sidechain_len-PC.
-pdf>
-Package pdftex.def Info: ../../notebooks/2023-01-04-side-chain/named-figure/lev
-el-sidechain_len-PC.pdf  used on input line 415.
-(pdftex.def)             Requested size: 215.0023pt x 236.1865pt.
-
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 414--418
-[][] [] 
- []
-
 <../../notebooks/2022-09-04-mixed-models/named-figure/pvalues-PMI-effect.pdf, i
-d=60, 280.35052pt x 380.13205pt>
+d=58, 280.35052pt x 380.13205pt>
 File: ../../notebooks/2022-09-04-mixed-models/named-figure/pvalues-PMI-effect.p
 df Graphic file (type pdf)
 <use ../../notebooks/2022-09-04-mixed-models/named-figure/pvalues-PMI-effect.pd
@@ -431,7 +408,7 @@ Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/p
 values-PMI-effect.pdf  used on input line 424.
 (pdftex.def)             Requested size: 171.99922pt x 233.2201pt.
 <../../notebooks/2022-09-04-mixed-models/named-figure/PMI-effect-on-estimate-pv
-al.pdf, id=61, 526.24927pt x 789.02782pt>
+al.pdf, id=59, 526.24927pt x 789.02782pt>
 File: ../../notebooks/2022-09-04-mixed-models/named-figure/PMI-effect-on-estima
 te-pval.pdf Graphic file (type pdf)
 <use ../../notebooks/2022-09-04-mixed-models/named-figure/PMI-effect-on-estimat
@@ -443,7 +420,7 @@ MI-effect-on-estimate-pval.pdf  used on input line 435.
 LaTeX Warning: Float too large for page by 30.85088pt on input line 446.
 
 <../../notebooks/2022-09-04-mixed-models/named-figure/pvalues-corrected-wo-PMI.
-pdf, id=62, 646.35759pt x 494.94499pt>
+pdf, id=60, 646.35759pt x 494.94499pt>
 File: ../../notebooks/2022-09-04-mixed-models/named-figure/pvalues-corrected-wo
 -PMI.pdf Graphic file (type pdf)
 <use ../../notebooks/2022-09-04-mixed-models/named-figure/pvalues-corrected-wo-
@@ -451,7 +428,7 @@ PMI.pdf>
 Package pdftex.def Info: ../../notebooks/2022-09-04-mixed-models/named-figure/p
 values-corrected-wo-PMI.pdf  used on input line 450.
 (pdftex.def)             Requested size: 430.00462pt x 329.27777pt.
-<../../notebooks/2022-09-04-mixed-models/named-figure/line-ensemble.pdf, id=63,
+<../../notebooks/2022-09-04-mixed-models/named-figure/line-ensemble.pdf, id=61,
  493.59094pt x 548.7225pt>
 File: ../../notebooks/2022-09-04-mixed-models/named-figure/line-ensemble.pdf Gr
 aphic file (type pdf)
@@ -463,7 +440,7 @@ ine-ensemble.pdf  used on input line 463.
 LaTeX Warning: Float too large for page by 3.52242pt on input line 476.
 
 <../../notebooks/2022-09-04-mixed-models/named-figure/line-ensemble-green-purpl
-e.pdf, id=64, 485.18452pt x 548.7225pt>
+e.pdf, id=62, 485.18452pt x 548.7225pt>
 File: ../../notebooks/2022-09-04-mixed-models/named-figure/line-ensemble-green-
 purple.pdf Graphic file (type pdf)
 <use ../../notebooks/2022-09-04-mixed-models/named-figure/line-ensemble-green-p
@@ -474,6 +451,15 @@ ine-ensemble-green-purple.pdf  used on input line 481.
 
 LaTeX Warning: Float too large for page by 11.80313pt on input line 492.
 
+<../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-PCe.p
+df, id=63, 396.0396pt x 575.2692pt>
+File: ../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-
+PCe.pdf Graphic file (type pdf)
+<use ../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-P
+Ce.pdf>
+Package pdftex.def Info: ../../notebooks/2023-01-04-side-chain/named-figure/lev
+el-1_sidechain_len-PCe.pdf  used on input line 495.
+(pdftex.def)             Requested size: 322.50346pt x 468.45842pt.
 [9 <./../../notebooks/2022-09-04-mixed-models/named-figure/raw-BMP-levels.png> 
 <./../../notebooks/2022-09-04-mixed-models/named-figure/norm-BMP-levels.png> <.
 /../../notebooks/2022-09-04-mixed-models/named-figure/raw-Sulf-levels.png> <./.
@@ -486,45 +472,44 @@ LaTeX Warning: Float too large for page by 11.80313pt on input line 492.
 [12 <./../../notebooks/2022-09-04-mixed-models/named-figure/all-qq-plots-fixed-
 fx.pdf>] [13 <./../../notebooks/2022-09-04-mixed-models/named-figure/t-value-he
 atmap-fixed-mixed-models.pdf> <./../../notebooks/2022-09-04-mixed-models/named-
-figure/p-value-heatmap-fixed-mixed-models.pdf>] [14 <./../../notebooks/2023-01-
-04-side-chain/named-figure/level-sidechain_len-SM.pdf> <./../../notebooks/2023-
-01-04-side-chain/named-figure/level-sidechain_len-PC.pdf> <./../../notebooks/20
-22-09-04-mixed-models/named-figure/pvalues-PMI-effect.pdf>] [15 <./../../notebo
-oks/2022-09-04-mixed-models/named-figure/PMI-effect-on-estimate-pval.pdf>]
-[16 <./../../notebooks/2022-09-04-mixed-models/named-figure/pvalues-corrected-w
-o-PMI.pdf>] [17 <./../../notebooks/2022-09-04-mixed-models/named-figure/line-en
-semble.pdf>] [18 <./../../notebooks/2022-09-04-mixed-models/named-figure/line-e
-nsemble-green-purple.pdf>] (./SupplementaryMaterial.aux) ) 
+figure/p-value-heatmap-fixed-mixed-models.pdf>] [14 <./../../notebooks/2022-09-
+04-mixed-models/named-figure/pvalues-PMI-effect.pdf>] [15 <./../../notebooks/20
+22-09-04-mixed-models/named-figure/PMI-effect-on-estimate-pval.pdf>] [16 <./../
+../notebooks/2022-09-04-mixed-models/named-figure/pvalues-corrected-wo-PMI.pdf>
+] [17 <./../../notebooks/2022-09-04-mixed-models/named-figure/line-ensemble.pdf
+>] [18 <./../../notebooks/2022-09-04-mixed-models/named-figure/line-ensemble-gr
+een-purple.pdf>] [19 <./../../notebooks/2023-01-04-side-chain/named-figure/leve
+l-1_sidechain_len-PCe.pdf>] (./SupplementaryMaterial.aux) ) 
 Here is how much of TeX's memory you used:
- 2419 strings out of 476025
- 46230 string characters out of 5790017
+ 2412 strings out of 476025
+ 45708 string characters out of 5790017
  1866388 words of memory out of 5000000
- 22853 multiletter control sequences out of 15000+600000
+ 22847 multiletter control sequences out of 15000+600000
  518900 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,62p,645b,261s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2
-023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/20
-23/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/202
-3/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2023/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmtt10.pfb>
-Output written on ./SupplementaryMaterial.pdf (18 pages, 1238298 bytes).
+</usr/local/texlive/
+2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2
+023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/20
+23/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/202
+3/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2023/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmtt10.pfb>
+Output written on ./SupplementaryMaterial.pdf (19 pages, 1316141 bytes).
 PDF statistics:
- 1625 PDF objects out of 1728 (max. 8388607)
- 169 compressed objects within 2 object streams
+ 1618 PDF objects out of 1728 (max. 8388607)
+ 167 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
