@@ -26,6 +26,10 @@ defects in lipid processing in VPS13A-disease
 \renewcommand*\listfigurename{Supplementary Figures}
 \listoffigures
 
+\setcounter{table}{4}
+\makeatletter 
+\renewcommand{\tablename}{Supplementary Table S} % nice
+\makeatother
 %\section{Supplementary Methods}
 
 \section{Lipidomics}
@@ -36,7 +40,7 @@ class-based internal standards using a modified Bligh and Dyer method, and
 they were analyzed on a platform comprising of Agilent 1260 Infinity HPLC
 integrated to Agilent 6490A QQQ mass spectrometer controlled by Masshunter v
 7.0 (Agilent Technologies, Santa Clara, CA). Glycerophospholipids and
-sphingolipids were separated with normal-phase HPLC as described previously25,
+sphingolipids were separated with normal-phase HPLC as described previously,
 with a few modifications. An Agilent Zorbax Rx-Sil column (2.1 x 100 mm, 1.8
 $\mu$m) maintained at $25\circ$C was used under the following conditions: mobile phase A
 (chloroform: methanol: ammonium hydroxide, 89.9:10:0.1, v/v) and mobile phase
@@ -47,8 +51,9 @@ Separation of sterols and glycerolipids was carried out on a reverse phase
 Agilent Zorbax Eclipse XDB-C18 column (4.6 x 100 mm, 3.5um) using an isocratic
 mobile phase, chloroform, methanol, and 0.1 M ammonium acetate (25:25:1) at a
 flow rate of 300 $\mu$l/min.
+
 Quantification of lipid species was accomplished using multiple reaction
-monitoring (MRM) transitions25 under both positive and negative ionization
+monitoring (MRM) transitions under both positive and negative ionization
 modes in conjunction with referencing of class-based internal standards: PA
 14:0/14:0, PC 14:0/14:0, PE 14:0/14:0, phosphatidylglycerol (PG) 15:0/15:0,
 phosphatidylinositol (PI)17:0-20:4; phosphatidylserine (PS) 14:0/14:0, BMP
@@ -112,9 +117,10 @@ Lipid abbreviations are as follows:
 \section{Data overview}
 
 Our lipidomic assay quantified the level of 593 lipid species in three brain
-regions (DLPFC, CN and Putamen) from each of $n=10$ subjects (6 control and 4
-ChAc).  Besides ChAc status (Dx variable), we knew the age at each subject's
-death (AgeAtDeath variable).
+regions (DLPFC, CN and putamen) from each of $n=10$ subjects (6 control and 4
+ChAc).  Besides ChAc status (Dx variable), we had information on the age at
+each subject's death (AgeAtDeath variable) and samples' postmortem interval
+(PMI).
 
 The 593 lipid species were classified into 34 lipid groups based on chemical
 structure.  The smallest group (FC, free cholesterol group) had only one
@@ -207,7 +213,7 @@ independent from each other (they have zero correlation).
  \hline
  $\mathbf{y}_{g}$  & $\mathbf{y}_{g}$                    & standardized lipid level in group $g$ \\
  $\mathbf{x}_{g1}$ & $\mathbf{x}_{g\mathrm{CN}}$         & 1 for samples from CN, 0 otherwise \\
- $\mathbf{x}_{g2}$ & $\mathbf{x}_{g\mathrm{Putamen}}$    & 1 for samples from Putamen, 0 otherwise \\
+ $\mathbf{x}_{g2}$ & $\mathbf{x}_{g\mathrm{putamen}}$    & 1 for samples from putamen, 0 otherwise \\
                    & $\mathbf{x}_{g\mathrm{DLPFC}}$      & 1 for samples from DLPFC, 0 otherwise \\
                    & $\mathbf{x}_{g\mathrm{ChAc}}$       & 1 for samples from ChAc subjects, 0 otherwise \\
  $\mathbf{x}_{g6}$ & $\mathbf{x}_{g\mathrm{AgeAtDeath}}$ & age at death in years \\
@@ -216,7 +222,7 @@ independent from each other (they have zero correlation).
 \caption{Data vectors used in the model (Eq.~\ref{eq:main-model}).
 $\mathbf{x}_{g3}, \mathbf{x}_{g4}, \mathbf{x}_{g5}$ are part of the Dx:Region
 interaction term and defined as the element-wise vector product $\mathbf{x}_{g\mathrm{ChAc}} \circ
-\mathbf{x}_{gr}$, where region $r =$ DLPFC, CN and Putamen,
+\mathbf{x}_{gr}$, where region $r =$ DLPFC, CN and putamen,
 respectively. The length of all vectors is $30 n_g$ for the species-level data
 and $30$ for the group-level data, where $n_g$ is the number of lipid species
 in group $g$.}
@@ -227,7 +233,7 @@ The regression parameters $\{\beta_{gj}\}_j$ and their interpretations are
 listed in Table~\ref{tab:parameters}.  The parameters of our main interest are
 $\beta_{3g}, \beta_{4g}, \beta_{5g}$ corresponding to the terms
 $\{$Dx[T.ChAc]:Region[$r$]$ \; : \; r \in \{\mathrm{DLPFC}, \mathrm{CN},
-\mathrm{Putamen}\}\}$, respectively.
+\mathrm{putamen}\}\}$, respectively.
 
 \begin{table}
 	\small
@@ -240,13 +246,13 @@ $\{$Dx[T.ChAc]:Region[$r$]$ \; : \; r \in \{\mathrm{DLPFC}, \mathrm{CN},
 	 \hline
 	 $\beta_{1g}$        & Region[T.CN]              & fixed effect of the CN region w.r.t DLPFC      & avg. standardized lipid level in CN w.r.t DLPFC across all control subjects and lipid species within lipid group \\
 	 \hline
-	 $\beta_{2g}$        & Region[T.Putamen]         & fixed effect of the Putamen region w.r.t DLPFC & avg. standardized lipid level in Putamen w.r.t DLPFC across all control subjects and all lipid species within lipid group \\
+	 $\beta_{2g}$        & Region[T.putamen]         & fixed effect of the putamen region w.r.t DLPFC & avg. standardized lipid level in putamen w.r.t DLPFC across all control subjects and all lipid species within lipid group \\
 	 \hline
 	 $\beta_{3g}$        & Dx[T.ChAc]: Region[DLPFC]  & fixed, DLPFC-specific, effect of ChAc status   & avg. standardized lipid level in ChAc w.r.t Control, in DLPFC, across all ChAc subjects and all lipid species within lipid group \\
 	 \hline
 	 $\beta_{4g}$        & Dx[T.ChAc]: Region[CN]     & fixed, CN-specific, effect of ChAc status      & avg. standardized lipid level in ChAc w.r.t Control, in CN, across all ChAc subjects and all lipid species within lipid group \\
 	 \hline
-	 $\beta_{5g}$        & Dx[T.ChAc]: Region[Putamen]& fixed, Putamen-specific effect of ChAc status  & avg. standardized lipid level in ChAc w.r.t Control, in Putamen, across all ChAc subjects and all lipid species within lipid group \\
+	 $\beta_{5g}$        & Dx[T.ChAc]: Region[putamen]& fixed, putamen-specific effect of ChAc status  & avg. standardized lipid level in ChAc w.r.t Control, in putamen, across all ChAc subjects and all lipid species within lipid group \\
 	 \hline
 	 $\beta_{6g}$        &  AgeAtDeath               & fixed effect of age                            & change in avg.  standardized lipid level per year across all brain regions and all lipid species within lipid group \\
 	 \hline
@@ -255,14 +261,14 @@ $\{$Dx[T.ChAc]:Region[$r$]$ \; : \; r \in \{\mathrm{DLPFC}, \mathrm{CN},
 \end{tabular}
 \caption{Model parameters, corresponding terms and interpretations.  Our main
 	interest concerns $\beta_{3g}, \beta_{4g}$, and $\beta_{5g}$, corresponding
-	to fixed, region specific, effects of ChAc for the DLPFC, CN and Putamen
+	to fixed, region specific, effects of ChAc for the DLPFC, CN and putamen
 	regions, respectively.
 }
 \label{tab:parameters}
 \end{table}
 
 We also fitted a more complex model that contains, as covariate, the
-post-mortem interval in hours (PMI); with symbolic formula the model is
+postmortem interval in hours (PMI); with symbolic formula the model is
 written as `Level $\sim$ 1 + Region + Dx:Region + AgeAtDeath + PMI`.  We found
 that PMI had non-significant effect ($\alpha=0.01$) on lipid levels
 (Fig.~S\ref{fig:PMI-pvals}) and the key results were little affected by the
@@ -282,11 +288,11 @@ residuals.
 For each lipid group $g$ we formulated our inference on ChAc-associated lipid
 changes using estimates $\hat{\beta}_{3g}, \hat{\beta}_{4g},
 \hat{\beta}_{5g}$, which quantify the change of lipid level in ChAc w.r.t
-Control in the DLPFC, CN and Putamen regions, respectively.
+Control in the DLPFC, CN and putamen regions, respectively.
 
 We also tested each of the following three null hypotheses: $\beta_{3g} = 0$,
 $\beta_{4g} = 0$ and $\beta_{5g} = 0$ meaning no change in lipid group $g$'s
-level in ChAc w.r.t Control in the DLPFC, CN and Putamen, respectively.
+level in ChAc w.r.t Control in the DLPFC, CN and putamen, respectively.
 Testing for all 34 lipid groups resulted in $34 \times 3 = 102$ p-values.
 We performed multiple hypothesis test correction conservatively taking all 102
 p-values into account.  We performed both the Bonferroni and the
@@ -305,7 +311,7 @@ Benjamini-Hochberg procedure.
 
 \setcounter{figure}{0}
 \makeatletter 
-\renewcommand{\figurename}{Supplementary Figure} % nice
+\renewcommand{\figurename}{Supplementary Figure S} % nice
 \makeatother
 
 \begin{figure}[p]
