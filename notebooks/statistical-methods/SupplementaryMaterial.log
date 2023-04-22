@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.30)  18 APR 2023 21:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.30)  22 APR 2023 19:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -245,31 +245,31 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 (./SupplementaryMaterial.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 21--30
+Underfull \hbox (badness 10000) in paragraph at lines 34--43
 []\OT1/cmr/m/n/10 Xue Li Guan, Gi-an-luca Ces-tra, Guanghou Shui, An-tje Kuhrs,
  Ralf B. Schit-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--30
+Underfull \hbox (badness 10000) in paragraph at lines 34--43
 \OT1/cmr/m/n/10 ten-helm, Ernst Hafen, F. Gisou van der Goot, Car-men C. Robi-n
 ett, Mau-r-
  []
 
 
-Underfull \hbox (badness 6477) in paragraph at lines 21--30
+Underfull \hbox (badness 6477) in paragraph at lines 34--43
 \OT1/cmr/m/n/10 izio Gatti, Mar-cos Gonzalez-Gaitan, and Markus R. Wenk.  Bio-c
 hem-i-cal mem-
  []
 
 
-Underfull \hbox (badness 4416) in paragraph at lines 21--30
+Underfull \hbox (badness 4416) in paragraph at lines 34--43
 \OT1/cmr/m/n/10 brane lipidomics dur-ing drosophila de-vel-op-ment.  \OT1/cmr/m
 /it/10 De-vel-op-men-tal Cell\OT1/cmr/m/n/10 , 24(1):98--111,
  []
 
 
-Underfull \hbox (badness 5105) in paragraph at lines 21--30
+Underfull \hbox (badness 5105) in paragraph at lines 34--43
 \OT1/cmr/m/n/10 2013.  ISSN 1534-5807.  doi: https://doi.org/10.1016/j.devcel.2
 012.11.012.  URL
  []
@@ -511,10 +511,10 @@ hain/named-figure/level-1_sidechain_len-PCe.pdf>] [22 <./../../notebooks/2023-0
 1-04-side-chain/named-figure/level-2_sidechain_len-Sulf.pdf>]
 (./SupplementaryMaterial.aux) ) 
 Here is how much of TeX's memory you used:
- 2436 strings out of 476025
- 47466 string characters out of 5790017
+ 2434 strings out of 476025
+ 47453 string characters out of 5790017
  1866388 words of memory out of 5000000
- 22868 multiletter control sequences out of 15000+600000
+ 22866 multiletter control sequences out of 15000+600000
  518900 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,62p,645b,261s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -536,7 +536,7 @@ cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 fb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
 b></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
 >
-Output written on ./SupplementaryMaterial.pdf (22 pages, 1574146 bytes).
+Output written on ./SupplementaryMaterial.pdf (22 pages, 1574801 bytes).
 PDF statistics:
  1840 PDF objects out of 2073 (max. 8388607)
  188 compressed objects within 2 object streams

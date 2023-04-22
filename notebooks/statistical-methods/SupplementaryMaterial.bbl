@@ -5,6 +5,19 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
+\bibitem[Chan et~al.(2012)Chan, Oliveira, Cortes, Honig, Duff, Small, Wenk,
+  Shui, and {Di Paolo}]{CHAN20122678}
+Robin~B. Chan, Tiago~G. Oliveira, Etty~P. Cortes, Lawrence~S. Honig, Karen~E.
+  Duff, Scott~A. Small, Markus~R. Wenk, Guanghou Shui, and Gilbert {Di Paolo}.
+\newblock Comparative lipidomic analysis of mouse and human brain with
+  alzheimer disease*.
+\newblock \emph{Journal of Biological Chemistry}, 287\penalty0 (4):\penalty0
+  2678--2688, 2012.
+\newblock ISSN 0021-9258.
+\newblock \doi{https://doi.org/10.1074/jbc.M111.274142}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0021925820532274}.
+
 \bibitem[Chan et~al.(2017)Chan, Perotte, Zhou, Liong, Shorr, Marder, Kang,
   Waters, Levy, Xu, Shim, Pe’er, Di~Paolo, and Alcalay]{Chan2017}
 Robin~B. Chan, Adler~J. Perotte, Bowen Zhou, Christopher Liong, Evan~J. Shorr,
@@ -27,16 +40,5 @@ Xue Li Guan, Gianluca Cestra, Guanghou Shui, Antje Kuhrs, Ralf B.
 \newblock \doi{https://doi.org/10.1016/j.devcel.2012.11.012}.
 \newblock URL
   \url{https://www.sciencedirect.com/science/article/pii/S1534580712005321}.
-
-\bibitem[Hartler et~al.(2014)Hartler, Köfeler, Trötzmüller, Thallinger, and
-  Spener]{Hartler2014}
-Jürgen Hartler, Harald~C. Köfeler, Martin Trötzmüller, Gerhard~G.
-  Thallinger, and Friedrich Spener.
-\newblock Assessment of lipidomic species in hepatocyte lipid droplets from
-  stressed mouse models.
-\newblock \emph{Scientific Data}, 1\penalty0 (1):\penalty0 140051, 2014.
-\newblock ISSN 2052-4463.
-\newblock \doi{10.1038/sdata.2014.51}.
-\newblock URL \url{https://doi.org/10.1038/sdata.2014.51}.
 
 \end{thebibliography}
