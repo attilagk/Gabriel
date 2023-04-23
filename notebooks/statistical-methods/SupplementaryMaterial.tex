@@ -158,8 +158,7 @@ lipid level typically varies greatly across all species $c \in g$.
 
 \section{Data standardization}
 
-We standardized lipid levels for the sake of all visualizations (all heatmaps
-and Fig.~\ref{fig:individual-changes}-\ref{fig:individual-changes-simple}) and
+We standardized lipid levels for the sake of all visualizations (e.g heatmaps) and
 all model-based
 statistical inference.  In the species-level data, for each lipid species $c$,
 we standardized lipid levels $z_{ci}$ across the $i = 1...30$ samples to
@@ -271,9 +270,9 @@ We also fitted a more complex model that contains, as covariate, the
 postmortem interval in hours (PMI); with symbolic formula the model is
 written as `Level $\sim$ 1 + Region + Dx:Region + AgeAtDeath + PMI`.  We found
 that PMI had non-significant effect ($\alpha=0.01$) on lipid levels
-(Fig.~S\ref{fig:PMI-pvals}) and the key results were little affected by the
+(Supplementary Fig.~S\ref{fig:PMI-pvals}) and the key results were little affected by the
 correction for PMI
-(Fig.~S\ref{fig:PMI-effect-on-estimates},~S\ref{fig:pvalues-corrected-wo-PMI}).
+(Supplementary Fig.~S\ref{fig:PMI-effect-on-estimates},~S\ref{fig:pvalues-corrected-wo-PMI}).
 Therefore, in the main text we present results based on the simpler model that
 lacks PMI correction.
 
@@ -320,7 +319,7 @@ Benjamini-Hochberg procedure.
 	\caption[Non-standardized and standardized BMP levels]{
 	Non-standardized (left) and standardized (right) BMP levels.  Both
 	non-standardized and standardized data have been normalized to mol \%.  In
-	this figure and in Fig.~S\ref{fig:heatmap-Sulf}-S\ref{fig:heatmap-LPS} the
+	this figure and in Supplementary Fig.~S\ref{fig:heatmap-Sulf}-S\ref{fig:heatmap-LPS} the
 	darkest blue and red denote -3 and 3 $\times$ the standard deviation of
 	lipid level across all 30 observations, respectively.
 }
@@ -488,11 +487,11 @@ Benjamini-Hochberg procedure.
 \end{center}
 	\caption[Significant lipid changes in individual control and ChAc patients II.]{
 		Lipid groups with significantly increased levels in the CN and putamen of
-		individual control and ChAc patients. As Fig.~S\ref{fig:individual-changes} but only mean standardized levels across
+		individual control and ChAc patients. As Supplementary Fig.~S\ref{fig:individual-changes} but only mean standardized levels across
 		individual lipid species are shown and subjects have been re-colored.
 		Although individual subjects show considerable variation, the
 		brain-regional distribution of metabolite levels is clearly different in ChAc subjects
-		relative to Control.
+		relative to control.
 }
 \label{fig:individual-changes-simple}
 \end{figure}
@@ -517,7 +516,7 @@ Benjamini-Hochberg procedure.
 	\includegraphics[width=0.75\textwidth]{../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-LPS.pdf}
 	\caption[LPS levels across various side chain lengths and degrees of unsaturation]{
 		Standardized LPS levels across various side chain lengths and degrees of unsaturation.
-		See Fig.~S\ref{fig:sidechain-BMP} for details.
+		See Supplementary Fig.~S\ref{fig:sidechain-BMP} for details.
 }
 \label{fig:sidechain-LPS}
 \end{figure}
@@ -527,7 +526,7 @@ Benjamini-Hochberg procedure.
 	\includegraphics[width=0.75\textwidth]{../../notebooks/2023-01-04-side-chain/named-figure/level-1_sidechain_len-PCe.pdf}
 	\caption[PCe levels across various side chain lengths and degrees of unsaturation]{
 		Standardized PCe levels across various side chain lengths and degrees of unsaturation.
-		See Fig.~S\ref{fig:sidechain-BMP} for details.
+		See Supplementary Fig.~S\ref{fig:sidechain-BMP} for details.
 }
 \label{fig:sidechain-PCe}
 \end{figure}
@@ -537,11 +536,11 @@ Benjamini-Hochberg procedure.
 	\includegraphics[width=0.75\textwidth]{../../notebooks/2023-01-04-side-chain/named-figure/level-2_sidechain_len-Sulf.pdf}
 	\caption[Sulf levels across various side chain lengths and degrees of unsaturation]{
 		Standardized Sulf levels across various side chain lengths and degrees of unsaturation.
-		$y$ axes: BMP level. $x$ axes: side chain length. Rows: 
+		$y$ axes: Sulf level. $x$ axes: side chain length. Rows: 
 		degrees of unsaturation, labelled as $\mathrm{du} = (0,0), ...$). Columns:
 		brain regions.
 	While BMP, LPS and PCe
-	(Fig.~S\ref{fig:sidechain-BMP}-S\ref{fig:sidechain-PCe}) have only one side
+	(Supplementary Fig.~S\ref{fig:sidechain-BMP}-S\ref{fig:sidechain-PCe}) have only one side
 	chain, Sulf has two.  Hence, we have, e.g, $\mathrm{du} = (1,0)$, which means
 	degree of unsaturation of 1 for chain 1 and that of 0 for chain 2.  The
 	length displayed on the $x$ axis is that of side chain 2, while side chain 1
